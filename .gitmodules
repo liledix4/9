@@ -1,0 +1,3 @@
+[submodule "gears/modules/js_xhr_ajax"]
+	path = gears/modules/js_xhr_ajax
+	url = https://github.com/liledix4/js_xhr_ajax
